@@ -125,5 +125,19 @@ El sistema está organizado en **módulos independientes**, cada uno con su prop
 1. Clonar repositorio:
 
 ```bash
-git clone https://github.com/usuario/calculadora-gui-simulacion.git
+https://github.com/Argos71/Calculadora-2do-Parcial.git
 cd calculadora-gui-simulacion
+```
+
+2. Instalar dependencias:
+
+```bash
+pip install numpy pandas matplotlib pillow openpyxl
+```
+
+1. Ejecutar la aplicación:
+
+```bash
+python CalculadoraSegundoParcial.py
+
+```
